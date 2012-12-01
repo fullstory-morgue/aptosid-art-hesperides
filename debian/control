@@ -1,4 +1,4 @@
-Source: aptosid-art-thanatos
+Source: aptosid-art-hesperides
 Section: graphics
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
@@ -11,84 +11,84 @@ Build-Depends: debhelper (>= 9.20120115),
  libxml-parser-perl,
  fonts-dustin
 Standards-Version: 3.9.3
-Vcs-Svn: svn://svn.berlios.de/fullstory/aptosid-art-thanatos/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-art-thanatos/trunk/
+Vcs-Svn: svn://svn.berlios.de/fullstory/aptosid-art-hesperides/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-art-hesperides/trunk/
 
-Package: aptosid-art-kde-thanatos
+Package: aptosid-art-kde-hesperides
 Architecture: all
 Provides: aptosid-art-kde-theme
 Depends: ${misc:Depends},
- aptosid-art-ksplash-thanatos,
- aptosid-art-kdm-thanatos
-Recommends: aptosid-art-wallpaper-thanatos,
+ aptosid-art-ksplash-hesperides,
+ aptosid-art-kdm-hesperides
+Recommends: aptosid-art-wallpaper-hesperides,
  dmz-cursor-theme
-Description: KDE theme for the aptosid 2012-01 release
+Description: KDE theme for the aptosid 2013-01 release
  release specific metapackage depending on ksplash, kdm and KDE themes to be
  used in combination with the K Desktop Environment. This package also
  provides a release specific color scheme for KDE.
  .
- KDE artwork metapackage for: aptosid 2012-01 (Θάνατος)
+ KDE artwork metapackage for: aptosid 2013-01 (Ἑσπερίδες)
 
-Package: aptosid-art-kdm-thanatos
+Package: aptosid-art-kdm-hesperides
 Architecture: all
 Depends: ${misc:Depends},
  kdm
-Description: KDM theme for the aptosid 2012-01 release
+Description: KDM theme for the aptosid 2013-01 release
  release specific artwork theme for the KDM display manager to be used in
  combination with the K Desktop Environment.
  .
- KDM artwork for: aptosid 2012-01 (Θάνατος)
+ KDM artwork for: aptosid 2013-01 (Ἑσπερίδες)
  .
  This package does not override existing theme configurations and needs to be
  selected manually.
 
-Package: aptosid-art-ksplash-thanatos
+Package: aptosid-art-ksplash-hesperides
 Architecture: all
 Depends: ${misc:Depends},
  kde-workspace-bin
-Description: KDE ksplash theme for the aptosid 2012-01 release
+Description: KDE ksplash theme for the aptosid 2013-01 release
  release specific KDE ksplash theme, using the default ksplash engine.
  .
- KDE ksplash artwork for: aptosid 2012-01 (Θάνατος)
+ KDE ksplash artwork for: aptosid 2013-01 (Ἑσπερίδες)
  .
  This package does not override existing theme configurations and needs to be
  selected manually.
 
-Package: aptosid-art-wallpaper-thanatos
+Package: aptosid-art-wallpaper-hesperides
 Architecture: all
 Provides: aptosid-art-wallpaper-theme
 Depends: ${misc:Depends}
-Description: aptosid wallpaper for the 2012-01 release
+Description: aptosid wallpaper for the 2013-01 release
  release specific wallpapers, compatible with the K Desktop Environment, Xfce,
  LXDE and GNOME.
  .
- Wallpapers for: aptosid 2012-01 (Θάνατος)
+ Wallpapers for: aptosid 2013-01 (Ἑσπερίδες)
  .
  This package does not override existing theme configurations and needs to be
  selected manually.
 
-Package: aptosid-art-xfce-thanatos
+Package: aptosid-art-xfce-hesperides
 Section: metapackages
 Architecture: all
 Provides: aptosid-art-xfce-theme
 Depends: ${misc:Depends},
- aptosid-art-xsplash-thanatos
-Recommends: aptosid-art-wallpaper-thanatos,
+ aptosid-art-xsplash-hesperides
+Recommends: aptosid-art-wallpaper-hesperides,
  dmz-cursor-theme
-Description: Xfce theme for the aptosid 2012-01 release
+Description: Xfce theme for the aptosid 2013-01 release
  release specific metapackage depending on xfce4-session and Xfce themes
  to be used in combination with the Xfce desktop environment.
  .
- Xfce artwork metapackage for: aptosid 2012-01 (Θάνατος)
+ Xfce artwork metapackage for: aptosid 2013-01 (Ἑσπερίδες)
 
-Package: aptosid-art-xsplash-thanatos
+Package: aptosid-art-xsplash-hesperides
 Architecture: all
 Depends: ${misc:Depends},
  xfce4-session
-Description: Xfce splash theme for the aptosid 2012-01 release
+Description: Xfce splash theme for the aptosid 2013-01 release
  release specific Xfce splash theme, based on the balou theme engine.
  .
- Xfce xsplash artwork for: aptosid 2012-01 (Θάνατος)
+ Xfce xsplash artwork for: aptosid 2013-01 (Ἑσπερίδες)
  .
  This package does not override existing theme configurations and needs to be
  selected manually.

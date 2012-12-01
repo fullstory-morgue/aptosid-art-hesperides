@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="background.svg"
-   inkscape:export-filename="aptosid-thanatos.png"
+   inkscape:export-filename="aptosid-hesperides.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    style="display:inline">
@@ -248,16 +248,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="813.29202"
+     inkscape:cx="564.29202"
      inkscape:cy="671.38263"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="false"
      borderlayer="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1550"
-     inkscape:window-x="1196"
-     inkscape:window-y="-3"
+     inkscape:window-width="1912"
+     inkscape:window-height="1153"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -292,26 +292,10 @@
     </g>
   </metadata>
   <g
-     inkscape:label="background"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,147.63782)"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;filter:url(#filter9702)"
-       id="rect2985"
-       width="1600"
-       height="1200"
-       x="0"
-       y="-147.63785" />
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="background-top"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:url(#radialGradient8404);fill-opacity:1;stroke:none;filter:url(#filter9807)"
        id="rect9763"

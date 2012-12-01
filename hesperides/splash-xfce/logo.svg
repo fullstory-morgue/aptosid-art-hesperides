@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="thanatos-xfce-splash.png"
+   inkscape:export-filename="hesperides-xfce-splash.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45"
    style="display:inline;enable-background:new">
@@ -28,16 +28,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="682.35894"
+     inkscape:cx="433.35894"
      inkscape:cy="556.06554"
      inkscape:document-units="px"
-     inkscape:current-layer="Background"
+     inkscape:current-layer="Clock"
      showgrid="false"
      borderlayer="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1550"
-     inkscape:window-x="1196"
-     inkscape:window-y="-3"
+     inkscape:window-width="1912"
+     inkscape:window-height="1153"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:snap-global="false">
@@ -428,23 +428,8 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="Black"
-     inkscape:label="Black"
-     sodipodi:insensitive="true"
-     style="display:inline">
-    <rect
-       style="fill:url(#radialGradient5774);fill-opacity:1;stroke:none"
-       id="rect5766"
-       width="1600"
-       height="1200"
-       x="0"
-       y="8.5265128e-14" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="Clock"
      inkscape:label="Clock"
-     sodipodi:insensitive="true"
      style="display:inline">
     <rect
        inkscape:transform-center-x="141.69687"
@@ -517,8 +502,7 @@
      inkscape:groupmode="layer"
      id="Text"
      transform="translate(0,147.63782)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g6289">
       <path

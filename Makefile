@@ -1,4 +1,4 @@
-DIRS = thanatos
+DIRS = hesperides
 BUILDDIRS = $(DIRS:%=build-%)
 INSTALLDIRS = $(DIRS:%=install-%)
 CLEANDIRS = $(DIRS:%=clean-%)
