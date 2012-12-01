@@ -88,8 +88,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=100,74,155
 
 [General]
-ColorScheme=aptosid-thanatos
-Name=aptosid-thanatos
+ColorScheme=aptosid-hesperides
+Name=aptosid-hesperides
 shadeSortColumn=true
 
 [KDE]

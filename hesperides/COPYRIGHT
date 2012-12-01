@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: aptosid-art-thanatos
+Upstream-Name: aptosid-art-hesperides
 Upstream-Contact: Rick Battle <rick.battle@celtrenicdesigns.com>
-Source: svn://svn.berlios.de/fullstory/aptosid-art-thanatos/trunk/
+Source: svn://svn.berlios.de/fullstory/aptosid-art-hesperides/trunk/
 
 Files: *
 Copyright: 2007-2010, Bernard Gray <bernard.gray@gmail.com>

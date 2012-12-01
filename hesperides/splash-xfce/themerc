@@ -1,5 +1,5 @@
 #
-# Default aptosid 2012-01 thanatos theme 
+# Default aptosid 2013-01 hesperides theme 
 # for xfce4 based on the balou engine
 #
 # Copyright (c) 2010 David Creedy <djcreedy@iinet.net.au>
@@ -30,8 +30,8 @@
 # Info section
 #
 [Info]
-Name=aptosid 2012-01 (thanatos)
-Description=default xfce theme for aptosid 2012-01 release
+Name=aptosid 2013-01 (hesperides)
+Description=default xfce theme for aptosid 2013-01 release
 
 #
 # splash screen settings
