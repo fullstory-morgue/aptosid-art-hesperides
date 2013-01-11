@@ -5,9 +5,9 @@ Source: svn://svn.berlios.de/fullstory/aptosid-art-hesperides/trunk/
 
 Files: *
 Copyright: 2007-2010, Bernard Gray <bernard.gray@gmail.com>
-           2007-2012, Stefan Lippers-Hollmann <s.l-h@gmx.de>
+           2007-2013, Stefan Lippers-Hollmann <s.l-h@gmx.de>
            2009, David Creedy <djcreedy@iinet.net.au>
-           2010-2012, Rick Battle <rick.battle@celtrenicdesigns.com>
+           2010-2013, Rick Battle <rick.battle@celtrenicdesigns.com>
 License: GPL-2+
 
 Files: dm-kdm/oxygen.svg dm-kdm/session.png dm-kdm/system.png
@@ -26,7 +26,7 @@ License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2009, Bernard Gray <bernard.gray@gmail.com>
-           2007-2012, Stefan Lippers-Hollmann <s.l-h@gmx.de>
+           2007-2013, Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: GPL-2
 
 License: CC-BY-SA
