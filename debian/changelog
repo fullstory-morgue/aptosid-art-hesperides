@@ -1,19 +1,15 @@
-aptosid-art-hesperides (0.0.1) UNRELEASED; urgency=low
-
-  * NOT RELEASED YET
+aptosid-art-hesperides (0.0.1) unstable; urgency=low
 
   [ Rick Battle ]
   * initial import of hesperides wallpaper 
-
-  [ Stefan Lippers-Hollmann ]
-  * update FSF postal address to be URLs.
-  * bump standards version to 3.9.4, no changes necessary.
-
-  [ Rick Battle ]
   * lightened wallpaper to increase contrast
   * dm-kdm background 
   * fix vignetting in 4x3 wallpaper 
   * xfce-splash background
+
+  [ Stefan Lippers-Hollmann ]
+  * update FSF postal address to be URLs.
+  * bump standards version to 3.9.4, no changes necessary.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 01 Dec 2012 22:46:13 +0100
 
