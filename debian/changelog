@@ -13,6 +13,7 @@ aptosid-art-hesperides (0.0.1) UNRELEASED; urgency=low
   * lightened wallpaper to increase contrast
   * dm-kdm background 
   * fix vignetting in 4x3 wallpaper 
+  * xfce-splash background
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 01 Dec 2012 22:46:13 +0100
 
