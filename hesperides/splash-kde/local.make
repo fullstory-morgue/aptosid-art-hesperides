@@ -1,10 +1,14 @@
-local-all: fred0 fred1 fred2 fred3 fred4
+local-all: bar letters
 
-fred0 fred1 fred2 fred3 fred4: $(SIZES)
-	mkdir -p $(THEME)/1280x1024 $(THEME)/1600x1200 $(THEME)/1920x1080 $(THEME)/$(CONTROLDIR)
-	./svg-anim.pl $@.svg 30 $@_anim.svg scaley,0:1,1:30,sin:base opacity,0.5:1,1:30,sin
-	inkscape --without-gui --export-png="$(THEME)/$(CONTROLDIR)/$@.png" $@_anim.svg
-	ln -s  ../$(CONTROLDIR)/$@.png $(THEME)/1280x1024/$@.png
-	ln -s  ../$(CONTROLDIR)/$@.png $(THEME)/1600x1200/$@.png
-	ln -s  ../$(CONTROLDIR)/$@.png $(THEME)/1920x1080/$@.png
-	$(RM) $@_anim.svg
+bar: $(CONTROLDIR)
+	inkscape --without-gui --export-png="$(THEME)/$(CONTROLDIR)/$@.png" $@.svg
+
+letters: a p t o sid
+
+a p t o sid:
+	./svg-anim-r2skew2-fix.pl $@.svg 30 $@_anim.svg scaley,0:1,1:30,sin:base opacity,0:1,1:30,sin
+	./svg-anim-r2skew2-fix.pl $@s.svg 30 $@s_anim.svg skewX,0:1,-45:30,sin scaley,0:0,1:30,sin:base opacity,0:1,1:30,sin
+	inkscape -f $@_anim.svg -e $@_anim.png
+	inkscape -f $@s_anim.svg -e $@s_anim.png
+	./composite_pngs.pl -o $(THEME)/$(CONTROLDIR)/$@.png $@s_anim.png $@_anim.png
+	$(RM) $@s_anim.png $@_anim.png $@_anim.svg $@s_anim.svg
