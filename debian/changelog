@@ -1,6 +1,10 @@
 aptosid-art-hesperides (0.1.2) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+  [ Rick Battle ]
+  * fixed text scale issues on wallpaper
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Apr 2013 23:18:05 +0200
 
